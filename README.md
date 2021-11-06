@@ -11,4 +11,4 @@
     替换 “com.unity.toonshader > Editor” 里的 “UTS_GUIBase.cs” 即可。
     
 ## 汉化预览
-<img width = "800" src="./Img~/UTS.PNG?raw=true">
+<img width = "400" src="https://raw.githubusercontent.com/VCMellon/UnityToonShader_Simplified_Chinese_GUI/main/Img~/UTS.png?raw=true">
